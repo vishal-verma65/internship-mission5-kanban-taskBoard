@@ -2,6 +2,11 @@
 
 A small Kanban-style task board frontend built with React, Vite, Tailwind CSS and Zustand for state management. It supports creating tasks, dragging between columns, marking tasks done, and deleting tasks.
 
+live link: https://kanbantaskb.netlify.app/
+
+<img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/24cf2ff6-d4b0-497a-901d-a9b2dbd29595" />
+
+
 ## Features
 - Create, edit and delete tasks
 - Drag & drop tasks between columns (dnd-kit)
