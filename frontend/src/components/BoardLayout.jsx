@@ -1,4 +1,4 @@
-import SearchBar from './SearchBar'
+import SearchBar from './Searchbar'
 
 export default function BoardLayout({ children }) {
   return (
