@@ -3,8 +3,9 @@
 A small Kanban-style task board frontend built with React, Vite, Tailwind CSS and Zustand for state management. It supports creating tasks, dragging between columns, marking tasks done, and deleting tasks.
 
 live link:
-netlify : https://kanbantaskb.netlify.app/
-vercel : internship-mission5-kanban-task-boa.vercel.app
+netlify : https://kanbantaskb.netlify.app/ 
+
+vercel : https://internship-mission5-kanban-task-boa.vercel.app
 
 <img width="1917" height="958" alt="image" src="https://github.com/user-attachments/assets/24cf2ff6-d4b0-497a-901d-a9b2dbd29595" />
 
